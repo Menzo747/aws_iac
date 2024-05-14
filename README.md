@@ -1,4 +1,4 @@
 # aws_iac
 My AWS - Infrastracture as Code Repo
 
-! [ ](images/Office Comms Cabinet.jpeg)
+![My Image](images/Office Comms Cabinet.jpeg)
